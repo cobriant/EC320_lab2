@@ -8,7 +8,7 @@ Lab: Wednesday 4/12 from 4-5:20pm (Zoom link on Canvas)
  
 Office hour: Friday 4/14 from 8-9am (Zoom link on Canvas)
 
-Lab assignment 2: `K03_tibble` and `K04_qplot` are due Friday 4/14 at 5pm. Upload your knitted html files to Canvas under Lab assignment 2.
+Lab assignment 2: `K03_tibble` and `K04_ggplot_intro` are due Friday 4/14 at 5pm. Upload your knitted html files to Canvas under Lab assignment 2.
 
 ## Download this Lab Assignment
 
