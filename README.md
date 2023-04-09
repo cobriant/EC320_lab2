@@ -22,6 +22,8 @@ In RStudio, go to the lower righthand panel and hit the folder R. This takes you
 
 ## Reading
 
+[Link to download a pdf with a horizontal layout](https://github.com/cobriant/tidyverse_illustrated/raw/main/Tidyverse.pdf)
+
 ![](https://github.com/cobriant/tidyverse_illustrated/blob/main/Learning%20the%20Tidyverse-11.jpg)
 ![](https://github.com/cobriant/tidyverse_illustrated/blob/main/Learning%20the%20Tidyverse-12.jpg)
 ![](https://github.com/cobriant/tidyverse_illustrated/blob/main/Learning%20the%20Tidyverse-13.jpg)
