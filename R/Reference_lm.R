@@ -45,9 +45,9 @@ students %>%
 #' which contains code where you install a package.
 #' Here's me taking the code above and piping the lm object into `broom::tidy()`
 #' to get a "tidied" (organized in a tibble) version of the regression output.
-students %>%
-  lm(final_grade ~ grade1, data = .) %>%
-  broom::tidy()
+# students %>%
+#   lm(final_grade ~ grade1, data = .) %>%
+#   broom::tidy()
 
 #' The standard errors, statistic, and p.value tell us in three different ways
 #' how confident we can be in the estimates for the intercept and the slope.
@@ -56,9 +56,9 @@ students %>%
 #' `broom` has another function for accessing data about lm objects: it's
 #' `broom::glance()`. This is useful especially for accessing the R-squared for
 #' a regression, which you'll learn about a little later in the class.
-students %>%
-  lm(final_grade ~ grade1, data = .) %>%
-  broom::glance()
+# students %>%
+#   lm(final_grade ~ grade1, data = .) %>%
+#   broom::glance()
 
 #' # 3 Fitted values and Residuals
 #' The last thing you'll be asked to do in this class is to find the fitted
