@@ -1,6 +1,6 @@
 # EC320 Lab #2
 
-https://www.youtube.com/watch?v=xkrx-DBSrnk (higher resolution version will become available around 9pm Sat 4/8)
+https://www.youtube.com/watch?v=xkrx-DBSrnk
 
 In this lab, you'll learn about holding data in tibbles (tidy tables), you'll get an introduction to ggplot ("grammar of graphics" plots), and you'll take a look at how to use lm() to fit a linear regression in R.
 
