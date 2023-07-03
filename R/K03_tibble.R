@@ -3,11 +3,6 @@
 #                                Koan #3: Tibbles
 #:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Embrace the art of tibble(), and let your data dance in harmony. As you delve
-# in, knowledge shall blossom, revealing the secrets of tidy data frames. With
-# each use, your familiarity shall flourish, guiding you towards a world of
-# organized and efficient data management.
-
 # To conquer this challenge:
 # 1. When facing an exercise, bravely fill in the blank and prepare for action.
 # 2. Liberate the code from its comment chains (Ctrl+Shift+C on Windows,
@@ -146,4 +141,4 @@ student_sampleA
 # Great work! You're one step closer to tidyverse enlightenment. Make sure to
 # return to this topic to meditate on it later.
 
-# If you're ready, you can move on to the next koan: qplot.
+# If you're ready, you can move on to the next koan: lm.
